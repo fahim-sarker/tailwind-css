@@ -23,6 +23,7 @@ export default {
       'lrm' : "url(./src/assets/lorem.png)",
       'lrm1' : "url(./src/assets/lorem1.png)",
       'lrm2' : "url(./src/assets/lorem2.png)",
+      'map' : "url(./src/assets/Maps.png)",
     },
   },
   plugins: [],

@@ -4,7 +4,9 @@ import Ap from "../assets/Maps.png"
 const Map = () => {
   return (
     <section>
-        <img src={Ap} alt="map" />
+       <div className="w-[100%">
+       <img src={Ap} alt="map" />
+       </div>
     </section>
   )
 }
