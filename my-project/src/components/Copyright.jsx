@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Copyright = () => {
+  console.log("dsfsdlfjlsd");
   return (
     <section className='bg-[#282828] py-[30px]'>
       <div className="max-w-Container mx-auto">
